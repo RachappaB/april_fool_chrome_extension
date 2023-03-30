@@ -1,0 +1,22 @@
+{
+  "manifest_version": 2,
+  "name": "April fool",
+  "description": "funny extension ",
+  "version": "1.0",
+  "chrome_url_overrides":{
+    "newtab":"1.html"
+  },
+  
+  "background":{
+    "scripts":["back.js"],
+    "persistent":false
+  },
+  "browser_action":{
+    "default_icon":"imagw.png"
+  },
+  "icons":{
+    "64":"imagw.png"
+  },
+  "permissions":["tabs"]
+
+}
