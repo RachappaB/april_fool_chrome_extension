@@ -6,7 +6,7 @@ this extension is funny extension which open many tabs with sunny leone photo an
 
 
 ```bash
-git clone RachappaB/apirl_fool_chrome_extension
+git clone RachappaB/april_fool_chrome_extension
 ```
 add this apirl_fool_chrome to chrom extension load 
 
